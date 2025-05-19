@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/moodle-assignment-checker.git
+git clone https://github.com/markovrv/moodle-assignment-checker.git
 cd moodle-assignment-checker
 ```
 
